@@ -1,5 +1,7 @@
 # ml_dl_assignments
 
+### 科学建模课程作业：
+
 ### [Assignments 1](./assignment_1/assignment_1.ipynb)
 ### [Assignments 2](./assignment_2/assignment_2.ipynb)
 ### [Assignments 3](./assignment_3/assignment_3.ipynb)
